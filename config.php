@@ -1,5 +1,5 @@
 <?php
-$user='mysql.sys';
+$user='root';
 $password='Yes';
 $db="anmol";
 $c=mysqli_connect('localhost',$user,$password,$db);
