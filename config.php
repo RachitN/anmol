@@ -1,6 +1,6 @@
 <?php
-$user='';
-$password='';
+$user='root';
+$password='Yes';
 $db="anmol";
-$c=mysqli_connect('',$user,$password,$db);
+$c=mysqli_connect('localhost',$user,$password,$db);
 ?>
