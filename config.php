@@ -1,6 +1,6 @@
 <?php
-$user='azure';
-$password='Yes';
+$user='';
+$password='';
 $db="anmol";
-$c=mysqli_connect('localhost',$user,$password,$db);
+$c=mysqli_connect('',$user,$password,$db);
 ?>
